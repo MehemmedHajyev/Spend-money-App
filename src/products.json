@@ -1,0 +1,27 @@
+[
+    {
+        "id":"1",
+        "title":"Saqqiz",
+        "price":"10",
+        "img":"https://bravomarket.online/upload/resize_cache/iblock/c4a/430_558_1/c4a7cb4755dd96df835258705a75694c.jpg"
+    },
+    {
+        "id":"2",
+        "title":"Kola",
+        "price":"4",
+        "img":"https://www.bakenroll.az/en/image/coca-cola.jpg"
+    },
+    {
+        "id":"3",
+        "title":"Ayaqqabi",
+        "price":"70",
+        "img":"https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1350,h_1350/global/386668/01/sv01/fnd/PHL/fmt/png/PUMA-x-AMI-Rider-FV-Sneakers"
+    },
+    {
+        "id":"4",
+        "title":"Araba",
+        "price":"2000",
+        "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/2016_Land_Rover_Range_Rover_Vogue_%28L_405_MY17%29_wagon_%282018-11-29%29_01.jpg/420px-2016_Land_Rover_Range_Rover_Vogue_%28L_405_MY17%29_wagon_%282018-11-29%29_01.jpg"
+
+    }
+]
